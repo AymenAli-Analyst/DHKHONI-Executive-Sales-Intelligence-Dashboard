@@ -1,0 +1,301 @@
+EmployeeID,EmployeeName,Department,Position,Salary,HireDate,BranchID
+1,Employee_1,Finance,Manager,15349,9/6/2022,17
+2,Employee_2,Delivery,Manager,7337,7/30/2022,18
+3,Employee_3,Warehouse,Manager,15573,4/30/2024,9
+4,Employee_4,Finance,Coordinator,7650,5/14/2025,8
+5,Employee_5,Warehouse,Manager,8184,4/12/2025,10
+6,Employee_6,Warehouse,Supervisor,15808,12/14/2023,16
+7,Employee_7,Warehouse,Coordinator,10214,2/21/2023,9
+8,Employee_8,Warehouse,Specialist,13895,10/17/2023,18
+9,Employee_9,Delivery,Coordinator,17908,12/7/2021,5
+10,Employee_10,Warehouse,Specialist,9212,5/10/2025,3
+11,Employee_11,Warehouse,Coordinator,15247,6/9/2021,16
+12,Employee_12,Customer Service,Supervisor,13324,7/9/2021,18
+13,Employee_13,Warehouse,Supervisor,6289,6/14/2023,19
+14,Employee_14,Customer Service,Supervisor,5331,10/3/2023,17
+15,Employee_15,Customer Service,Supervisor,5360,7/24/2020,14
+16,Employee_16,Warehouse,Coordinator,6147,10/27/2023,5
+17,Employee_17,Sales,Supervisor,11166,8/30/2023,16
+18,Employee_18,Delivery,Supervisor,16884,5/28/2025,10
+19,Employee_19,Warehouse,Manager,15082,5/1/2020,3
+20,Employee_20,Finance,Supervisor,13267,2/21/2024,2
+21,Employee_21,Customer Service,Coordinator,7380,3/27/2025,2
+22,Employee_22,Delivery,Coordinator,7552,4/2/2025,10
+23,Employee_23,Sales,Specialist,9388,3/9/2023,20
+24,Employee_24,Sales,Manager,9162,7/19/2022,18
+25,Employee_25,Finance,Coordinator,6698,10/8/2024,17
+26,Employee_26,Delivery,Manager,7659,7/14/2024,4
+27,Employee_27,Warehouse,Supervisor,16478,7/28/2022,9
+28,Employee_28,Customer Service,Specialist,16568,11/21/2021,10
+29,Employee_29,Finance,Supervisor,7375,6/5/2023,13
+30,Employee_30,Delivery,Manager,5921,3/31/2022,4
+31,Employee_31,Customer Service,Supervisor,12322,10/24/2021,8
+32,Employee_32,Sales,Manager,10784,4/27/2021,15
+33,Employee_33,Warehouse,Manager,9447,4/7/2023,19
+34,Employee_34,Sales,Manager,15209,1/6/2022,8
+35,Employee_35,Sales,Specialist,12125,9/20/2021,6
+36,Employee_36,Delivery,Manager,15809,8/28/2020,10
+37,Employee_37,Warehouse,Supervisor,8090,5/14/2025,5
+38,Employee_38,Delivery,Supervisor,11954,3/11/2024,20
+39,Employee_39,Warehouse,Coordinator,16000,1/29/2023,16
+40,Employee_40,Finance,Supervisor,16982,5/21/2021,20
+41,Employee_41,Sales,Coordinator,13153,12/12/2023,12
+42,Employee_42,Sales,Specialist,5511,8/24/2024,18
+43,Employee_43,Finance,Supervisor,13883,1/4/2023,5
+44,Employee_44,Customer Service,Manager,13025,6/23/2022,4
+45,Employee_45,Customer Service,Coordinator,5989,1/14/2025,17
+46,Employee_46,Delivery,Specialist,11929,9/27/2020,17
+47,Employee_47,Delivery,Coordinator,13739,4/28/2020,18
+48,Employee_48,Delivery,Manager,16350,2/14/2020,13
+49,Employee_49,Warehouse,Specialist,16719,3/22/2021,19
+50,Employee_50,Sales,Specialist,11441,12/6/2021,3
+51,Employee_51,Finance,Specialist,5630,3/27/2025,16
+52,Employee_52,Sales,Manager,11198,1/3/2021,5
+53,Employee_53,Delivery,Manager,10766,7/7/2022,13
+54,Employee_54,Delivery,Specialist,15685,5/28/2025,18
+55,Employee_55,Customer Service,Manager,6443,12/31/2020,18
+56,Employee_56,Delivery,Supervisor,16425,4/1/2021,1
+57,Employee_57,Sales,Manager,12085,10/11/2023,18
+58,Employee_58,Delivery,Coordinator,17989,4/15/2021,8
+59,Employee_59,Delivery,Manager,7041,7/18/2021,7
+60,Employee_60,Sales,Specialist,17762,9/14/2023,14
+61,Employee_61,Finance,Specialist,8443,2/26/2021,3
+62,Employee_62,Sales,Specialist,11814,5/9/2023,2
+63,Employee_63,Customer Service,Specialist,11090,6/17/2022,8
+64,Employee_64,Finance,Supervisor,16859,11/3/2024,2
+65,Employee_65,Customer Service,Manager,8336,7/28/2024,19
+66,Employee_66,Warehouse,Manager,8381,9/10/2021,5
+67,Employee_67,Finance,Supervisor,11275,9/7/2021,9
+68,Employee_68,Sales,Supervisor,14756,10/22/2023,14
+69,Employee_69,Finance,Coordinator,5268,6/14/2025,12
+70,Employee_70,Delivery,Manager,15908,5/2/2022,14
+71,Employee_71,Customer Service,Manager,10667,1/11/2021,18
+72,Employee_72,Delivery,Supervisor,8192,9/7/2021,5
+73,Employee_73,Delivery,Specialist,13714,4/25/2022,14
+74,Employee_74,Finance,Supervisor,10863,5/12/2021,9
+75,Employee_75,Customer Service,Manager,15095,6/10/2020,15
+76,Employee_76,Warehouse,Specialist,13275,1/23/2024,7
+77,Employee_77,Sales,Manager,10679,10/11/2023,20
+78,Employee_78,Finance,Specialist,5692,1/20/2021,19
+79,Employee_79,Finance,Supervisor,12354,3/3/2021,11
+80,Employee_80,Warehouse,Specialist,7970,4/3/2025,7
+81,Employee_81,Sales,Coordinator,8474,11/25/2023,20
+82,Employee_82,Customer Service,Coordinator,8421,2/4/2023,11
+83,Employee_83,Warehouse,Coordinator,12139,12/28/2022,12
+84,Employee_84,Warehouse,Manager,10392,11/16/2022,16
+85,Employee_85,Delivery,Specialist,17653,1/19/2024,16
+86,Employee_86,Warehouse,Supervisor,10573,10/2/2021,14
+87,Employee_87,Sales,Supervisor,16644,10/25/2020,1
+88,Employee_88,Warehouse,Coordinator,9336,11/8/2020,7
+89,Employee_89,Warehouse,Supervisor,10723,3/12/2023,8
+90,Employee_90,Delivery,Manager,8716,4/12/2024,16
+91,Employee_91,Delivery,Coordinator,7256,2/9/2024,12
+92,Employee_92,Customer Service,Supervisor,16301,1/24/2023,16
+93,Employee_93,Customer Service,Specialist,13084,3/10/2020,3
+94,Employee_94,Sales,Specialist,11256,10/8/2020,8
+95,Employee_95,Sales,Supervisor,4649,3/23/2021,17
+96,Employee_96,Delivery,Manager,5490,6/19/2023,20
+97,Employee_97,Delivery,Coordinator,4757,1/14/2020,18
+98,Employee_98,Finance,Coordinator,4694,2/4/2020,17
+99,Employee_99,Warehouse,Manager,4780,10/25/2022,14
+100,Employee_100,Customer Service,Specialist,6078,12/9/2022,5
+101,Employee_101,Customer Service,Supervisor,14654,12/14/2022,9
+102,Employee_102,Warehouse,Manager,17524,3/23/2022,3
+103,Employee_103,Warehouse,Coordinator,12020,3/3/2023,8
+104,Employee_104,Customer Service,Manager,15707,8/22/2024,3
+105,Employee_105,Sales,Specialist,11140,2/15/2022,13
+106,Employee_106,Finance,Coordinator,5419,7/28/2023,1
+107,Employee_107,Customer Service,Specialist,12689,9/27/2024,14
+108,Employee_108,Warehouse,Specialist,13153,2/25/2025,2
+109,Employee_109,Customer Service,Supervisor,15842,12/22/2024,19
+110,Employee_110,Delivery,Manager,5262,3/7/2025,3
+111,Employee_111,Warehouse,Specialist,7438,3/17/2025,11
+112,Employee_112,Sales,Supervisor,14117,10/22/2020,13
+113,Employee_113,Sales,Manager,7161,2/28/2023,8
+114,Employee_114,Finance,Coordinator,15592,1/10/2025,18
+115,Employee_115,Warehouse,Coordinator,16879,2/23/2024,5
+116,Employee_116,Sales,Manager,5379,7/19/2020,14
+117,Employee_117,Customer Service,Specialist,10080,5/24/2023,20
+118,Employee_118,Finance,Coordinator,17173,10/30/2021,1
+119,Employee_119,Warehouse,Coordinator,12538,4/12/2021,12
+120,Employee_120,Finance,Coordinator,11575,1/15/2021,19
+121,Employee_121,Delivery,Specialist,17151,6/20/2023,10
+122,Employee_122,Customer Service,Specialist,5844,7/2/2021,5
+123,Employee_123,Delivery,Supervisor,16618,3/8/2022,11
+124,Employee_124,Warehouse,Specialist,5999,1/11/2020,10
+125,Employee_125,Delivery,Manager,16973,7/6/2021,4
+126,Employee_126,Customer Service,Specialist,7570,6/1/2022,15
+127,Employee_127,Finance,Coordinator,6192,2/23/2020,3
+128,Employee_128,Warehouse,Specialist,14280,5/9/2023,11
+129,Employee_129,Delivery,Specialist,9281,4/27/2022,13
+130,Employee_130,Sales,Supervisor,13870,12/3/2022,6
+131,Employee_131,Delivery,Supervisor,6774,7/4/2021,10
+132,Employee_132,Warehouse,Coordinator,6890,5/9/2020,6
+133,Employee_133,Delivery,Manager,11399,9/5/2021,16
+134,Employee_134,Sales,Manager,8623,4/17/2025,8
+135,Employee_135,Delivery,Supervisor,12001,8/7/2020,5
+136,Employee_136,Warehouse,Specialist,10983,11/11/2021,20
+137,Employee_137,Delivery,Manager,11712,11/16/2021,14
+138,Employee_138,Finance,Supervisor,9422,10/18/2021,20
+139,Employee_139,Customer Service,Coordinator,9647,12/29/2020,13
+140,Employee_140,Warehouse,Manager,16540,11/24/2023,16
+141,Employee_141,Finance,Supervisor,9839,2/9/2022,9
+142,Employee_142,Delivery,Manager,6365,3/23/2025,19
+143,Employee_143,Customer Service,Supervisor,15669,4/21/2024,18
+144,Employee_144,Sales,Coordinator,16105,3/5/2021,15
+145,Employee_145,Warehouse,Specialist,17917,10/2/2024,14
+146,Employee_146,Delivery,Supervisor,14876,9/12/2021,8
+147,Employee_147,Warehouse,Supervisor,16218,5/16/2022,13
+148,Employee_148,Sales,Coordinator,14296,9/8/2022,19
+149,Employee_149,Delivery,Coordinator,13407,3/16/2020,12
+150,Employee_150,Finance,Specialist,6291,4/23/2024,8
+151,Employee_151,Warehouse,Supervisor,15100,6/8/2023,2
+152,Employee_152,Finance,Coordinator,16831,11/10/2021,14
+153,Employee_153,Sales,Specialist,6115,6/13/2021,8
+154,Employee_154,Finance,Supervisor,11803,2/5/2022,13
+155,Employee_155,Delivery,Supervisor,10151,2/20/2020,16
+156,Employee_156,Sales,Manager,11315,2/28/2025,3
+157,Employee_157,Sales,Supervisor,10207,9/30/2021,11
+158,Employee_158,Delivery,Supervisor,13037,9/16/2022,12
+159,Employee_159,Delivery,Specialist,11678,1/18/2024,15
+160,Employee_160,Warehouse,Specialist,9419,4/1/2020,4
+161,Employee_161,Sales,Manager,15116,8/11/2020,6
+162,Employee_162,Customer Service,Supervisor,13542,11/23/2020,11
+163,Employee_163,Finance,Coordinator,12070,4/19/2021,13
+164,Employee_164,Customer Service,Supervisor,14993,9/8/2023,14
+165,Employee_165,Delivery,Specialist,16581,6/11/2023,7
+166,Employee_166,Delivery,Coordinator,10870,1/10/2020,7
+167,Employee_167,Customer Service,Manager,16826,12/12/2023,3
+168,Employee_168,Finance,Specialist,17599,11/20/2024,18
+169,Employee_169,Customer Service,Manager,9840,2/7/2021,15
+170,Employee_170,Sales,Manager,15488,11/1/2024,16
+171,Employee_171,Finance,Manager,14280,3/6/2022,20
+172,Employee_172,Delivery,Specialist,10200,12/21/2021,15
+173,Employee_173,Finance,Supervisor,17832,10/11/2023,10
+174,Employee_174,Finance,Specialist,15511,10/1/2020,11
+175,Employee_175,Sales,Supervisor,9503,8/27/2020,6
+176,Employee_176,Warehouse,Supervisor,12869,3/6/2022,14
+177,Employee_177,Finance,Supervisor,13917,2/24/2022,14
+178,Employee_178,Customer Service,Coordinator,14912,1/5/2023,6
+179,Employee_179,Finance,Supervisor,12522,8/14/2021,5
+180,Employee_180,Customer Service,Manager,11889,6/22/2023,2
+181,Employee_181,Warehouse,Specialist,12439,10/6/2020,7
+182,Employee_182,Delivery,Coordinator,11203,11/3/2023,16
+183,Employee_183,Delivery,Coordinator,12506,12/8/2020,3
+184,Employee_184,Finance,Specialist,17539,4/7/2024,8
+185,Employee_185,Warehouse,Specialist,9003,4/5/2021,18
+186,Employee_186,Warehouse,Supervisor,17291,7/25/2022,19
+187,Employee_187,Delivery,Specialist,13883,8/21/2020,9
+188,Employee_188,Finance,Manager,13380,8/11/2024,2
+189,Employee_189,Delivery,Supervisor,11465,7/28/2020,8
+190,Employee_190,Warehouse,Specialist,11868,6/22/2021,12
+191,Employee_191,Sales,Coordinator,6423,5/7/2024,8
+192,Employee_192,Customer Service,Manager,16144,6/3/2023,14
+193,Employee_193,Customer Service,Supervisor,17358,2/27/2021,7
+194,Employee_194,Sales,Manager,13220,7/29/2021,20
+195,Employee_195,Finance,Supervisor,9802,12/12/2023,10
+196,Employee_196,Warehouse,Manager,12928,1/17/2025,4
+197,Employee_197,Customer Service,Coordinator,5471,7/21/2021,5
+198,Employee_198,Customer Service,Supervisor,6896,12/27/2023,11
+199,Employee_199,Customer Service,Coordinator,12519,10/18/2020,19
+200,Employee_200,Warehouse,Coordinator,10646,7/14/2022,3
+201,Employee_201,Sales,Coordinator,12947,3/15/2024,9
+202,Employee_202,Warehouse,Coordinator,12496,11/1/2021,19
+203,Employee_203,Sales,Specialist,16475,6/13/2025,15
+204,Employee_204,Warehouse,Specialist,17536,12/30/2022,13
+205,Employee_205,Customer Service,Coordinator,7970,10/10/2022,9
+206,Employee_206,Warehouse,Manager,10033,1/25/2023,19
+207,Employee_207,Customer Service,Coordinator,17415,12/4/2021,2
+208,Employee_208,Sales,Specialist,14759,5/24/2024,15
+209,Employee_209,Sales,Specialist,7088,6/22/2022,15
+210,Employee_210,Sales,Coordinator,7814,11/11/2023,5
+211,Employee_211,Warehouse,Supervisor,8989,7/10/2020,12
+212,Employee_212,Warehouse,Specialist,10592,9/22/2023,6
+213,Employee_213,Sales,Coordinator,14749,9/17/2021,8
+214,Employee_214,Delivery,Specialist,16029,7/13/2020,1
+215,Employee_215,Customer Service,Coordinator,5776,9/28/2020,19
+216,Employee_216,Customer Service,Coordinator,4652,1/17/2020,11
+217,Employee_217,Sales,Coordinator,15871,9/27/2020,16
+218,Employee_218,Sales,Supervisor,10776,7/1/2020,4
+219,Employee_219,Sales,Manager,10522,12/9/2024,10
+220,Employee_220,Customer Service,Coordinator,17172,7/23/2024,5
+221,Employee_221,Customer Service,Specialist,13191,2/27/2023,1
+222,Employee_222,Finance,Supervisor,11710,12/20/2021,7
+223,Employee_223,Customer Service,Coordinator,14593,11/7/2023,15
+224,Employee_224,Customer Service,Specialist,6146,10/13/2020,4
+225,Employee_225,Finance,Coordinator,10259,5/26/2025,14
+226,Employee_226,Warehouse,Supervisor,8559,7/21/2021,3
+227,Employee_227,Customer Service,Manager,17262,4/11/2025,1
+228,Employee_228,Warehouse,Supervisor,12982,5/27/2023,17
+229,Employee_229,Customer Service,Coordinator,9342,8/16/2023,2
+230,Employee_230,Customer Service,Coordinator,10822,8/18/2020,8
+231,Employee_231,Delivery,Specialist,13155,12/25/2024,1
+232,Employee_232,Warehouse,Manager,6662,3/3/2022,19
+233,Employee_233,Delivery,Manager,13451,10/30/2023,6
+234,Employee_234,Delivery,Specialist,4773,4/17/2023,3
+235,Employee_235,Sales,Manager,8034,3/22/2020,2
+236,Employee_236,Delivery,Manager,14798,12/30/2023,17
+237,Employee_237,Delivery,Coordinator,15998,4/3/2022,3
+238,Employee_238,Finance,Supervisor,9046,6/20/2020,10
+239,Employee_239,Sales,Supervisor,17739,11/14/2020,18
+240,Employee_240,Warehouse,Coordinator,14108,7/23/2023,3
+241,Employee_241,Warehouse,Coordinator,16459,5/6/2025,8
+242,Employee_242,Sales,Supervisor,5912,3/8/2025,14
+243,Employee_243,Sales,Coordinator,14531,5/31/2023,2
+244,Employee_244,Warehouse,Supervisor,6456,1/26/2020,5
+245,Employee_245,Sales,Supervisor,12633,5/5/2025,12
+246,Employee_246,Finance,Manager,7235,1/31/2022,5
+247,Employee_247,Warehouse,Specialist,17139,1/16/2025,1
+248,Employee_248,Warehouse,Coordinator,8956,12/8/2022,3
+249,Employee_249,Warehouse,Specialist,12628,7/21/2022,17
+250,Employee_250,Warehouse,Specialist,12685,10/25/2024,19
+251,Employee_251,Customer Service,Manager,7077,6/6/2021,4
+252,Employee_252,Finance,Specialist,8242,2/26/2024,17
+253,Employee_253,Sales,Specialist,4701,5/15/2021,2
+254,Employee_254,Delivery,Manager,10774,2/27/2025,5
+255,Employee_255,Customer Service,Specialist,13558,7/2/2024,14
+256,Employee_256,Customer Service,Manager,8567,5/2/2022,11
+257,Employee_257,Warehouse,Specialist,13864,2/2/2022,4
+258,Employee_258,Finance,Specialist,7438,4/2/2021,17
+259,Employee_259,Sales,Coordinator,5629,12/1/2024,15
+260,Employee_260,Warehouse,Manager,9862,6/25/2020,18
+261,Employee_261,Delivery,Specialist,10544,2/14/2021,10
+262,Employee_262,Finance,Manager,16617,6/29/2023,8
+263,Employee_263,Delivery,Manager,14194,6/13/2025,16
+264,Employee_264,Customer Service,Supervisor,6966,1/14/2020,14
+265,Employee_265,Sales,Supervisor,13372,12/10/2021,1
+266,Employee_266,Warehouse,Specialist,16934,9/8/2023,13
+267,Employee_267,Warehouse,Specialist,7861,12/21/2022,8
+268,Employee_268,Delivery,Coordinator,5481,6/14/2025,5
+269,Employee_269,Warehouse,Specialist,5219,3/1/2025,8
+270,Employee_270,Finance,Coordinator,15982,1/8/2025,12
+271,Employee_271,Delivery,Specialist,14015,7/14/2020,17
+272,Employee_272,Customer Service,Coordinator,5726,4/27/2023,19
+273,Employee_273,Sales,Coordinator,15353,5/28/2025,5
+274,Employee_274,Customer Service,Manager,8776,10/8/2024,11
+275,Employee_275,Delivery,Manager,9711,7/16/2022,9
+276,Employee_276,Customer Service,Specialist,7821,10/5/2020,19
+277,Employee_277,Sales,Supervisor,6231,12/2/2020,15
+278,Employee_278,Delivery,Manager,11160,9/4/2020,18
+279,Employee_279,Warehouse,Supervisor,11904,9/23/2021,15
+280,Employee_280,Warehouse,Specialist,5981,11/18/2020,10
+281,Employee_281,Finance,Specialist,8022,9/7/2024,11
+282,Employee_282,Customer Service,Specialist,16151,5/23/2021,12
+283,Employee_283,Delivery,Specialist,15594,9/4/2021,9
+284,Employee_284,Customer Service,Specialist,11125,10/16/2024,15
+285,Employee_285,Finance,Supervisor,6051,8/4/2022,4
+286,Employee_286,Customer Service,Specialist,4695,5/6/2020,8
+287,Employee_287,Customer Service,Supervisor,17995,3/31/2022,12
+288,Employee_288,Sales,Manager,17816,6/2/2020,1
+289,Employee_289,Sales,Supervisor,15083,6/27/2022,5
+290,Employee_290,Sales,Manager,6507,3/28/2020,15
+291,Employee_291,Sales,Supervisor,13902,6/6/2022,13
+292,Employee_292,Delivery,Specialist,10770,10/31/2023,14
+293,Employee_293,Customer Service,Manager,8017,2/3/2025,6
+294,Employee_294,Warehouse,Manager,11807,12/14/2024,5
+295,Employee_295,Sales,Supervisor,15105,8/27/2021,16
+296,Employee_296,Delivery,Coordinator,5499,6/28/2020,9
+297,Employee_297,Delivery,Supervisor,11368,2/12/2021,17
+298,Employee_298,Customer Service,Specialist,10766,5/20/2024,12
+299,Employee_299,Delivery,Coordinator,10136,2/12/2025,19
+300,Employee_300,Finance,Manager,10863,7/7/2021,6
