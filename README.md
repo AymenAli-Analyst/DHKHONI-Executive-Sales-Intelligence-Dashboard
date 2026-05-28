@@ -125,7 +125,8 @@ Warehouse and Delivery departments represented the highest operational salary ex
 
 # 📷 Dashboard Preview
 
-<img width="100%" alt="Dashboard Preview" src="YOUR_IMAGE_LINK_HERE">
+ <img width="1371" height="801" alt="dokhoon dashb" src="https://github.com/user-attachments/assets/22acede4-b7ce-4148-84ad-a929075259bb" />
+>
 
 ---
 
